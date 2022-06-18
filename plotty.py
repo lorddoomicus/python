@@ -1,7 +1,6 @@
 #!env python
 #
 # plotty: 
-# (c) 2016 Derrik Walker v2.0
 #
 # Generate a plot from arbritrary 1 or 2 column numerical data from standard input 
 #
@@ -14,6 +13,7 @@
 #
 # This requires to have matplotlib installed
 #
+# (c) Derrik Walker v2.0
 # This is licensed for use under the GNU General Pulbic License v2
 #
 # 2016-09-27	dwalker	Initial Version

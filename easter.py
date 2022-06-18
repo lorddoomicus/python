@@ -3,6 +3,9 @@
 # This will calculate the dates of easter using Spencer Jones Method as 
 # documented in "Astronomical Formulae for Calculators" 4th ed.
 #
+# (c) Derrik Walker v2.0
+# This is licensed for use under the GNU General Pulbic License v2
+#
 # 2015-06-30	dwalker		Initial Python Version
 #				Ported from a BASIC program written on an Atari ST many years ago
 # 2015-08-06	dwalker		Fixed the range problem so that year2 is actually included in the output

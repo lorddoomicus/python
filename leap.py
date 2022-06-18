@@ -2,13 +2,13 @@
 #
 # This will calculate the leap years 
 #
+# (c) Derrik Walker v2.0
 # This is licensed for use under the GNU General Pulbic License v2
 #
 # 2016-02-27	dwalker	Initial Python Version
 #		Ported from a PERL program written many years ago
 # 2020-11-14    dwalker updated to use python 3 under pyenv
 
-# from datetime import date
 import sys, argparse
 
 parser = argparse.ArgumentParser( description='Calculates leap years.', epilog='year2 > year1 > 1583' )

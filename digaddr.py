@@ -2,6 +2,7 @@
 #
 # Add the digits of a number together
 #
+# (c) Derrik Walker v2.0
 # This is licensed for use under the GNU General Pulbic License v2
 #
 # 2015-11-02	dwalker		Initial Version

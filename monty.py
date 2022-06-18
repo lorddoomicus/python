@@ -17,6 +17,7 @@
 #
 # This is ported from a BASIC program written many eons ago for the C=64 Computer.
 #
+# (c) Derrik Walker v2.0
 # This is licensed for use under the GNU General Pulbic License v2
 #
 # 2015-07-21	dwalker	Initial Version in Python

@@ -7,6 +7,7 @@
 #
 # This requires to have numpy installed
 #
+# (c) Derrik Walker v2.0
 # This is licensed for use under the GNU General Pulbic License v2
 #
 # 2016-01-20	dwalker	Initial Version

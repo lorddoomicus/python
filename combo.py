@@ -10,7 +10,7 @@
 
 import math, argparse, sys
 
-parser = argparse.ArgumentParser( description="Calculates 'n choose k' or 'n permutations of k'", epilog='NOTE: 0 < n < k'  )
+parser = argparse.ArgumentParser( description="Calculates 'n choose k' or 'n permutations of k'", epilog='NOTE: 0 < k < n'  )
 parser.add_argument( 'n', type=int )
 parser.add_argument( 'k', type=int )
 group = parser.add_mutually_exclusive_group()
